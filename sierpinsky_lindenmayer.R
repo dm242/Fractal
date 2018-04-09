@@ -1,3 +1,4 @@
+#Uso sierpinsky.Lindenmayer()
 sierpinsky.Lindenmayer <- function(){
 	#Se carga libreria LindenmayeR en la ruta donde se encuentra instalada
 	library("LindenmayeR", lib.loc="D:/R/R-3.4.3/library")
